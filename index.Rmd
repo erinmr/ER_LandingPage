@@ -8,8 +8,8 @@ links:
     url: "https://twitter.com/connector_erin"
   - label: GitHub
     url: "https://github.com/erinmr"
-  - label: Email
-    url: "mailto:erinmr@gmail.com"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-9998-0114"
 output:
   postcards::trestles
 ---
