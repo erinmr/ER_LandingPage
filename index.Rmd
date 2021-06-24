@@ -2,8 +2,8 @@
 title: "Erin Robinson"
 image: "ER_Landingpage.png"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/erinmr/"
+  - label: Coaching
+    url: "https://openscienceleadershipcoaching.com/"
   - label: Twitter
     url: "https://twitter.com/connector_erin"
   - label: GitHub
