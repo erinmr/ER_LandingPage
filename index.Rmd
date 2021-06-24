@@ -2,18 +2,16 @@
 title: "Erin Robinson"
 image: "ER_Landingpage.png"
 links:
-  - label: Coaching
+  - label: Open Science Leadership Coach
     url: "https://openscienceleadershipcoaching.com/"
-  - label: Twitter
-    url: "https://twitter.com/connector_erin"
-  - label: GitHub
-    url: "https://github.com/erinmr"
-  - label: ORCID
-    url: "https://orcid.org/0000-0001-9998-0114"
+  - label: Metadata Game Changers Co-Founder
+    url: "https://metadatagamechangers.com/"
+  - label: Openscapes Co-Director
+    url: "openscapes.org"
 output:
   postcards::trestles
 ---
- 
-I am passionate about fostering innovation through collaboration across diverse stakeholders. After serving as the Executive Director for the Earth Science Information Partners (ESIP), leading the Open Earth science informatics community, for the last six years, I am continuing to champion open science and good data management. 
+
+I am passionate about fostering innovation through collaboration across diverse communities. I champion open science and good data management.
 
 I facilitate collaboration, build communities and coach scientific leaders, community builders and practitioners to expedite your progress.
