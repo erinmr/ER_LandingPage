@@ -7,7 +7,7 @@ links:
   - label: Metadata Game Changers Co-Founder
     url: "https://metadatagamechangers.com/"
   - label: Openscapes Co-Director
-    url: "openscapes.org"
+    url: "https://openscapes.org"
 output:
   postcards::trestles
 ---
@@ -15,3 +15,9 @@ output:
 I am passionate about fostering innovation through collaboration across diverse communities. I champion open science and good data management.
 
 I facilitate collaboration, build communities and coach scientific leaders, community builders and practitioners to expedite your progress.
+
+**Connect with me:**
+
+[![](Twitter.png){width="31"}](https://twitter.com/connector_erin)
+
+[![](LinkedIn.png){width="30"}](https://www.linkedin.com/in/erinmr/)
