@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/erinmr/"
   - label: Twitter
-    url: "https://twitter.com/erinmr"
+    url: "https://twitter.com/connector_erin"
   - label: GitHub
     url: "https://github.com/erinmr"
   - label: Email
